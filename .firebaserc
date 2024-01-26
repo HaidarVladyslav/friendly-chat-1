@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "friendlychat1-8c411": {
+      "hosting": {
+        "friendlychat1": [
+          "friendlychat1-8c411"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "friendlychat1-8c411"
+  }
+}
